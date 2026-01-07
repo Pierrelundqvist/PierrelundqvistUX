@@ -4,6 +4,9 @@ import { Link } from "react-router-dom";
 // ====== Bilder (Forskningsmetoder) ======
 import profile from "../../assets/profilbild.jpg";
 import profile2 from "../../assets/profilbild2.jpg";
+import profile4 from "../../assets/profilbild4.jpg";
+import profile5 from "../../assets/profilbild5.jpg";
+
 import cover from "../../assets/projects/forskningsmetoder/cover.jpg";
 import shot1 from "../../assets/projects/forskningsmetoder/shot1.jpg";
 import shot2 from "../../assets/projects/forskningsmetoder/shot2.jpg";
@@ -69,8 +72,10 @@ export const Forskningsmetoder = () => {
   ];
 
   const team = [
-    { name: "Pierre Lundqvist", role: "UX/UI-Designer", img: profile },
-    { name: "Jonatan Akyol", role: "UX/UI-Designer", img: profile2 },
+    { name: "Pierre Lundqvist", role: "UX Researcher", img: profile },
+    { name: "Jonatan Akyol", role: "UX Researcher", img: profile2 },
+    { name: "Martina Quach", role: "UX Researcher", img: profile4 },
+    { name: "Elsa Hinders", role: "UX Researcher", img: profile5 },
   ];
 
   // Karusellbilder (shot2 först, sedan shot1)
