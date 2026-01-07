@@ -303,7 +303,7 @@ export const AiDesign = () => {
       { n: 2, alt: "AI & Design – Bild 2", caption: "tribal tatoos, earring, necklace" },
       { n: 3, alt: "AI & Design – Bild 3", caption: "open jungle + teepee + campfire (long shot)" },
       { n: 4, alt: "AI & Design – Bild 4", caption: "crouching body, dog" },
-      { n: 5, alt: "AI & Design – Bild 5", caption: "art nouveau speakers, innovative design, product photography" },
+      { n: 5, alt: "AI & Design – Bild 5", caption: "dark pigeon group rap album cover, night new york city background, fisheye, old school theme" },
       { n: 6, alt: "AI & Design – Bild 6", caption: "necklace, hat, beanie. west, sunglases" },
     ];
 

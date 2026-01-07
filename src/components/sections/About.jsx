@@ -98,7 +98,7 @@ export const About = () => {
                 </div>
                 <div>
                     <h4 className="font-semibold"> Servitör på Le Petit Prince (2017-2018) </h4>
-                    <p>Jobbade som servitör i Frankrike på ett hotell under skidsäsong fram tills Apri</p>
+                    <p>Jobbade som servitör i Frankrike på ett hotell under skidsäsong fram tills April</p>
                 </div>
             </div>
             {/* Lägg poster här när du vill */}
